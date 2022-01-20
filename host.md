@@ -4,16 +4,16 @@ Hey, so you wanna be a host?
 
 The host is responsible for announcing the event, reminding the group, opening the space, welcoming newbies, and faciltating check-ins, and closing the space.
 
-Yes Art~Hack is a collective, but while paticipants can optionally contribute as they desire, the host is ultimately responsible.
+Yes Art~Hack is a collective, and delegating is good, but while paticipants can optionally contribute as they desire, the host is the backstop who must be ultimately responsible.
 
 - [A few days before, announce the event on Facebook](#a-few-days-before-announce-the-event-on-facebook)
 - [The day of, remind the group on Signal](#the-day-of-remind-the-group-on-signal)
-- [At 7pm, open the space](#at-7pm-open-the-space)
+- [At 6pm, open the space](#at-6pm-open-the-space)
 - [As newbies arrive, welcome them](#as-newbies-arrive-welcome-them)
-- [At 8pm, facilitate check-ins](#at-8pm-facilitate-check-ins)
+- [At 7pm, facilitate check-ins](#at-7pm-facilitate-check-ins)
 - [At the end, close the space](#at-the-end-close-the-space)
 
-## A few days before, Announce the event on Facebook
+## A few days before, announce the event on Facebook
 
 At least a few days before the event, create an event on the [Facebook group](https://www.facebook.com/groups/arthacknz).
 
@@ -21,12 +21,14 @@ Template:
 
 > Title: [@null] Art~Hack WLG: your creative title here
 > Location: 30 Arthur St, Te Aro, Wellington, 6011
-> Start: 7PM
+> Start: 6PM
 > ---
 >
+> note: you will need to show your vaccine pass!
+>
 > agenda:
-> - 7 PM - 8 PM: arrivals and casual chats 🌱
-> - 8 PM: intro circle 👋
+> - 6 PM - 7 PM: arrivals and casual chats 🌱
+> - 7 PM: intro circle 👋
 > - show and tells ✨
 > - collabs and jams 💖
 >
@@ -39,6 +41,8 @@ Template:
 >
 > if you're new and/or need to be let in the front door, say hi to the event host.
 
+A great source of cover photos: https://www.reddit.com/r/ImaginaryMindscapes
+
 Bonus points for posting the gathering on Scuttlebutt.
 
 ## The day of, remind the group on Signal
@@ -47,13 +51,13 @@ On the day of the event, remind the group on Signal with a friendly post. Excess
 
 > Arrrrrttttttt~Haaaaaccccckkkkkk !!! ☃️
 
-## At 7pm, open the space
+## At 6pm, open the space
 
-Before 7pm, arrive at the space to prepare for arrivals.
+Before 6pm, arrive at the space to prepare for arrivals.
 
 Check the space is suitably arranged (couches, tables, and such in the right places) and tidy (surfaces clear).
 
-At 7pm, prop open the door and put out the sign.
+At 6pm, prop open the door and put out the sign.
 
 ## As newbies arrive, welcome them
 
@@ -61,9 +65,9 @@ As newbies arrive, greet them and say hello!
 
 Try to help them feel welcome and at home in our (sometimes awkward and intimidating) space.
 
-## At 8pm, facilitate check-ins
+## At 7pm, facilitate check-ins
 
-At 8pm, gather the group energy and cast the check-in spell.
+At 7pm, gather the group energy and cast the check-in spell.
 
 4 questions:
 

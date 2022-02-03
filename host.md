@@ -17,13 +17,20 @@ Yes Art~Hack is a collective, and delegating is good, but while paticipants can 
 
 At least a few days before the event, create an event on the [Facebook group](https://www.facebook.com/groups/arthacknz).
 
-Template:
+Template title:
 
-> Title: [@null] Art~Hack WLG: your creative title here
-> Location: 30 Arthur St, Te Aro, Wellington, 6011
-> Start: 6PM
-> ---
->
+> [@null] Art~Hack WLG: your creative title here
+
+Template location:
+
+> 30 Arthur St, Te Aro, Wellington, 6011
+
+Template start time:
+
+> 6PM
+
+Template description:
+
 > note: you will need to show your vaccine pass!
 >
 > agenda:

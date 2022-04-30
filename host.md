@@ -19,34 +19,41 @@ At least a few days before the event, create an event on the [Facebook group](ht
 
 Template title:
 
-> [@null] Art~Hack WLG: your creative title here
+```
+[@null] Art~Hack WLG: your creative title here
+```
 
 Template location:
 
-> 30 Arthur St, Te Aro, Wellington, 6011
+```
+30 Arthur St, Te Aro, Wellington, 6011
+```
 
 Template start time:
 
-> 6PM
+```
+6PM
+```
 
 Template description:
 
-> note: you will need to show your vaccine pass!
->
-> agenda:
-> - 6 PM - 7 PM: arrivals and casual chats 🌱
-> - 7 PM: intro circle 👋
-> - show and tells ✨
-> - collabs and jams 💖
->
-> ---
-> want to join others in each doing our own thing? ever dream about a future where technology, nature, and society mutually support each other in harmony? ☀️🌱🤖
->
-> introducing Art~Hack Wellington's weekly jam: a safe space to discover, create, and share creative solarpunk energies with other (shy & introverted) humans. 🌈
->
-> every Thursday we share a mostly unstructured evening of make-believe, of hanging-out-and-ignoring-each-other, of intertwingling. bring whatever is your thing! maybe a side project, maybe a beat in your head, maybe a conversation, maybe some electronics, maybe a notebook, maybe a costume, your art can be anything. ❤️
->
-> if you're new and/or need to be let in the front door, say hi to the event host.
+```
+Agenda:
+- 6 PM - 7 PM: arrivals and casual chats 🌱
+- 7 PM: intro circle 👋
+- show and tells ✨
+- collabs and jams 💖
+
+---
+
+Want to join others in each doing our own thing? Ever dream about a future where technology, nature, and society mutually support each other in harmony? ☀️🌱🤖
+
+Introducing Art~Hack Wellington's weekly jam: a safe space to discover, create, and share creative solarpunk energies with other (shy & introverted) humans. 🌈
+
+Every Thursday we share a mostly unstructured evening of make-believe, of hanging-out-and-ignoring-each-other, of intertwingling. Bring whatever is your thing! Maybe a side project, maybe a beat in your head, maybe a conversation, maybe some electronics, maybe a notebook, maybe a costume, your art can be anything. ❤️
+
+If you're new and/or need to be let in the front door, say hi to the event host.
+```
 
 A great source of cover photos: https://www.reddit.com/r/ImaginaryMindscapes
 
@@ -56,7 +63,9 @@ Bonus points for posting the gathering on Scuttlebutt.
 
 On the day of the event, remind the group on Signal with a friendly post. Excessive emojis encouraged!
 
-> Arrrrrttttttt~Haaaaaccccckkkkkk !!! ☃️
+```
+Arrrrrttttttt~Haaaaaccccckkkkkk !!! ☃️
+```
 
 ## At 6pm, open the space
 

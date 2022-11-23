@@ -1,4 +1,8 @@
-## facebook event content template
+## facebook event content
+### title
+[@null] art~hack presents: spring emergence 
+
+### body
 We invite you to join us for our very special art~hack showcase. Come and soak in the bass, and photosynthesise in the visual extravaganza 🌻
 
 The art~hack showcase is a show hosted every other month at null, giving us all an opportunity to perform, and show off our latest projects and creative endeavours 🌀

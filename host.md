@@ -32,14 +32,14 @@ level 2/275 cuba street, te aro, wellington 6011
 Template start time:
 
 ```
-6pm
+6:30pm
 ```
 
 Template description:
 
 ```
 agenda:
-- 6 PM - 7 PM: arrivals and casual chats 🌱
+- 6:30 PM - 7 PM: arrivals and casual chats 🌱
 - 7 PM: intro circle 👋
 - show and tells ✨
 - collabs and jams 💖

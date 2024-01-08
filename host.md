@@ -20,7 +20,7 @@ At least a few days before the event, create an event on the [Facebook group](ht
 Template title:
 
 ```
-[@eda] art~hack wlg: your creative title here
+[@EDA] art~hack WLG: your creative title here
 ```
 
 Template location:
